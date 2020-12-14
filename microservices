@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T10:21:08.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="13.9.9" etag="nzyDIQzD9_EAf0MSm17M" type="github"><diagram id="Eej7i_WVv3vENQP8PjkJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T10:59:52.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uLWrx2DmMPvCnmdgEiEK" version="13.9.9" type="github">
+  <diagram id="Eej7i_WVv3vENQP8PjkJ" name="Page-1">
+    <mxGraphModel dx="1087" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" vertex="1" parent="1">
+          <mxGeometry x="400" y="60" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qBXpnjJB7yt8nTLo1dlr-3" target="qBXpnjJB7yt8nTLo1dlr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="390.3" y="525" width="56.4" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qBXpnjJB7yt8nTLo1dlr-5" target="qBXpnjJB7yt8nTLo1dlr-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417.79999999999995" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-5" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="38.4" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qBXpnjJB7yt8nTLo1dlr-20" target="qBXpnjJB7yt8nTLo1dlr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-9" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile" vertex="1" parent="1">
+          <mxGeometry x="401" y="400" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-15" value="&lt;h1&gt;User/Interface&lt;/h1&gt;&lt;p&gt;Parent can use mobile app to track children&#39;s chores&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-18" value="Data Interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-19" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-20" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.app_generic" vertex="1" parent="1">
+          <mxGeometry x="393.5" y="340" width="50" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="qBXpnjJB7yt8nTLo1dlr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qBXpnjJB7yt8nTLo1dlr-9" target="qBXpnjJB7yt8nTLo1dlr-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="418.5" y="400" as="sourcePoint" />
+            <mxPoint x="309.20000000000005" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
